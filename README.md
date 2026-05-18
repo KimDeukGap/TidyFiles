@@ -17,21 +17,18 @@
    ```bash
    git clone https://github.com/username/TidyFiles.git
    cd TidyFiles
-
 2. 스크립트 실행 Bash셸 -> python tidyfiles.py
-
 3. 입력값
 - 정리할 폴더 경로 입력
 - 정리 모드 선택: extension 또는 date
 
 사용 예시:
-
-정리할 폴더 경로를 입력하세요: C:/Users/성민/Documents
-정리 모드 선택 (extension/date): extension
+- 정리할 폴더 경로를 입력하세요: C:/Users/성민/Documents
+- 정리 모드 선택 (extension/date): extension
 
 결과:
-report.pdf → C:/Users/성민/Documents/pdf 로 이동 완료
-photo.jpg → C:/Users/성민/Documents/jpg 로 이동 완료
+- report.pdf → C:/Users/성민/Documents/pdf 로 이동 완료
+- photo.jpg → C:/Users/성민/Documents/jpg 로 이동 완료
 
 요구사항
 - Python 3.x
